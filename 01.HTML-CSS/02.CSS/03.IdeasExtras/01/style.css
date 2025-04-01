@@ -1,0 +1,134 @@
+body {
+    background-color: rgb(213, 244, 244);
+    font-family: "Roboto";
+}
+
+.container {
+    height: 100vh;
+}
+
+.container h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 60px;
+}
+
+#registro {
+    width: 35%;
+    border: 1px solid black;
+}
+
+#login {
+    width: 35%;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+
+.login_form {
+    width: 350px;
+    margin: 120px auto;
+    height: auto;
+    border: 1px solid #cccccc;
+    box-shadow: 1px 1px 2px #807e7e;
+}
+
+.login_form .login_form-header {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    background-color: #ffd900;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.login_form .login_form-header .logo {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 100%;
+}
+
+.login_form .login_form-header .title {
+    font-size: 1.4em;
+    margin-top: 5px;
+}
+
+.login_form .login_form-header .tria {
+    width: 0;
+    height: 0;
+    border-right: 10px solid transparent;
+    border-top: 15px solid #ffd900;
+    border-left: 10px solid transparent;
+    position: absolute;
+    bottom: -15px;
+}
+
+.login_form .login_form-content {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 40px 25px;
+    box-sizing: border-box;
+}
+
+.login_form .login_form-content .login_form-input {
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.login_form>.login_form-content>.login_form-input>.icon {
+    width: 40px;
+    height: 40px;
+    background-color: #ffd900;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_form .login_form-content .login_form-input input {
+    border: 0;
+    width: 100%;
+    background-color: #cccccc;
+    padding: 10px;
+}
+
+.login_form .login_form-content .login_form-input input:focus {
+    outline: none;
+}
+
+.login_form .login_form-content .login_form-remember {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    font-size: .8em;
+}
+
+.login_form .login_form-content .login_form-btn {
+    border: 0;
+    padding: 15px;
+    color: white;
+    background-color: #ffd900;
+    cursor: pointer;
+}
+
+.login_form .login_form-content .login_form-btn:hover {
+    background-color: #dabd16;
+}
