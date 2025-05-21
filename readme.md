@@ -1,4 +1,4 @@
-<p align="center"><img src="myAvatar.png" alt="Mi Avatar" style="width=25%"></p>
+<p align="center"><img src="myAvatar.png" alt="Mi Avatar" width="25%"></p>
 <p align="center"><strong>Cecilia Perdomo</strong></p>
 
 
