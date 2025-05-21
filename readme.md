@@ -1,11 +1,25 @@
 <p align="center">
-  <img src="myAvatar.png" alt="Mi Avatar" style="border-radius: 50%; width: 190px; height: 200px;">
+  <img src="myAvatar.png" alt="Mi Avatar" style="width">
 </p>
 
 <p align="center">
   <strong> Cecilia Perdomo </strong>
 </p>
 
-**Temario**
+## Temario
 - Prework
 - Html & CSS
+- Bootstrap
+- Formularios
+- Command Line
+- Git & GitHub
+- JavaScript
+- Jest
+- Operadores Ternarios
+- DOM
+- React
+- Modelado de datos
+- Python
+- Flask
+- JWT
+- Estructura de datos
