@@ -2,6 +2,7 @@
 <p align="center"><strong>Cecilia Perdomo</strong></p>
 
 
+
 | Temario         |           |                |               |
 |---------------|----------------|----------------------|--------------------|
 | Prework       | Bootstrap      | JavaScript          | Python             |
