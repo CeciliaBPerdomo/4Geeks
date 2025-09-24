@@ -1,11 +1,11 @@
-<p align="center"><img src="myAvatar.png" alt="Mi Avatar" width="25%"></p>
-<p align="center"><strong>Cecilia Perdomo</strong></p>
+<div align="center"><img src="Cecilia_Perdomo.png" alt="Cecilia Perdomo" ></div>
 
+## Temario
+| **Tecnologías**     |          |               |              |              |           |
+|-----------|------------|----------|--------|--------|--------|
+| Prework       | Html & CSS    |  Bootstrap  | Command Line | Git & GitHub  | DOM  |
+| JavaScript    | Formularios   | Operadores Ternarios| Jest   | React    |  Python |
+| Modelado de datos   | Flask     | JWT       |  Estructura de datos |
 
-
-| Temario         |           |                |               |
-|---------------|----------------|----------------------|--------------------|
-| Prework       | Bootstrap      | JavaScript          | Python             |
-| Html & CSS    | Formularios    | Jest                | Flask              |
-| Command Line  | Git & GitHub   | Operadores Ternarios| JWT                |
-| DOM           | React          | Modelado de datos   | Estructura de datos |
+## Codes & Practices
+- HTML & CSS
